@@ -39,7 +39,7 @@ $npm run dev
 
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 
-######Pretendo trazer novas features para o projeto em pouco tempo.
+######   Pretendo trazer novas features para o projeto em pouco tempo.
 
 ### 🦾Skills
 
