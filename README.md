@@ -2,7 +2,7 @@
 
 ---
 
-[video](../../../../../Videos/websocket.mp4)
+[Assista ao video do projeto Aqui](https://github.com/FagnerCarrena/ocorrencias_Gerencias/issues/1)
 
 ## 👌Sobre
 
